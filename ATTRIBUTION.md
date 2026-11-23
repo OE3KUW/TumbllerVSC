@@ -16,11 +16,12 @@ The official repository does not include a LICENSE file. This attribution
 documents provenance and source mapping; it does not grant a license or claim
 commercial-use permission.
 
-## Educational use
+## Educational and non-commercial use
 
-This project is intended for educational and personal learning use. It must not
-be assumed that the upstream source permits commercial use. Commercial use
-requires separate permission from the relevant rights holders.
+**Commercial use is not permitted.** This project is intended exclusively for
+educational, personal and non-commercial learning use. Commercial use, including
+use in commercial products, services or distribution, requires separate written
+permission from the relevant rights holders.
 
 ## Source mapping
 
