@@ -1,3 +1,12 @@
+// ===========================================================================
+// ATTRIBUTION
+// Based on the official ELEGOO Tumbller V1.1 source:
+// https://github.com/elegooofficial/ELEGOO-TumbllerV1.1-Self-Balancing-Car-Tutorial
+// Repository/project: https://github.com/OE3KUW/TumbllerVSC
+// Educational and personal learning use; see ATTRIBUTION.md.
+// Commercial use requires separate permission from the relevant rights holders.
+// ===========================================================================
+
 // I2C device class (I2Cdev) demonstration Arduino sketch for MPU6050 class, 3D math helper
 // 6/5/2012 by Jeff Rowberg <jeff@rowberg.net>
 // Updates should (hopefully) always be available at https://github.com/jrowberg/i2cdevlib

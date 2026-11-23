@@ -1,3 +1,12 @@
+// ===========================================================================
+// ATTRIBUTION
+// Based on the official ELEGOO Tumbller V1.1 source:
+// https://github.com/elegooofficial/ELEGOO-TumbllerV1.1-Self-Balancing-Car-Tutorial
+// Repository/project: https://github.com/OE3KUW/TumbllerVSC
+// Educational and personal learning use; see ATTRIBUTION.md.
+// Commercial use requires separate permission from the relevant rights holders.
+// ===========================================================================
+
 #include "MPU6050.h"
 MPU6050::MPU6050() { devAddr = MPU6050_DEFAULT_ADDRESS; }
 MPU6050::MPU6050(uint8_t address) { devAddr = address; }

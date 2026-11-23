@@ -1,3 +1,12 @@
+// ===========================================================================
+// ATTRIBUTION
+// Based on the official ELEGOO Tumbller V1.1 source:
+// https://github.com/elegooofficial/ELEGOO-TumbllerV1.1-Self-Balancing-Car-Tutorial
+// Repository/project: https://github.com/OE3KUW/TumbllerVSC
+// Educational and personal learning use; see ATTRIBUTION.md.
+// Commercial use requires separate permission from the relevant rights holders.
+// ===========================================================================
+
 // I2Cdev library collection - Main I2C device class
 // Abstracts bit and byte I2C R/W functions into a convenient class
 // 6/9/2012 by Jeff Rowberg <jeff@rowberg.net>

@@ -1,3 +1,12 @@
+// ===========================================================================
+// ATTRIBUTION
+// Based on the official ELEGOO Tumbller V1.1 source:
+// https://github.com/elegooofficial/ELEGOO-TumbllerV1.1-Self-Balancing-Car-Tutorial
+// Repository/project: https://github.com/OE3KUW/TumbllerVSC
+// Educational and personal learning use; see ATTRIBUTION.md.
+// Commercial use requires separate permission from the relevant rights holders.
+// ===========================================================================
+
 int low_voltage_flag = 1;
 unsigned long vol_measure_time = 0;
 void voltageInit()
